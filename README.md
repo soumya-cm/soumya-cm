@@ -30,4 +30,6 @@ programming knowledge.
 
 ## Connect With Me
 
-- GitHub: @https://github.com/soumya-cm
+- GitHub: https://github.com/soumya-cm
+- Portfolio: https://soumya-cm.github.io/My-portfolio/
+
